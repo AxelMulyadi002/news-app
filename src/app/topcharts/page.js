@@ -25,7 +25,7 @@ const topcharts = () => {
 					<div className="flex justify-center items-center gap-4 p-2 w-full  ">
 						<Image src={noah} alt="dewa19" className="w-60" />
 						<h1 className="w-72 ">
-							2. Noah 19 Total listeners: 4.5 M monthly listeners
+							2. Noah Total listeners: 4.5 M monthly listeners
 						</h1>
 					</div>
 					<div className="flex justify-center items-center gap-4 p-2 w-full  ">
