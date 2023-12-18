@@ -20,7 +20,7 @@ const NewsPage = () => {
 					width={800}
 					height={800}
 				/>
-				<div className="mb-96">
+				<div className="mb-80">
 					<p className="text-justify p-4 ">{data[index].source}</p>
 					<p className="text-justify p-4 ">{data[index].text}</p>
 					<p className="text-justify p-4 ">{data[index].textkedua}</p>

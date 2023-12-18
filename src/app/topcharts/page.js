@@ -77,6 +77,14 @@ const topcharts = () => {
 						</h1>
 					</div>
 				</div>
+				<h1>Sumber:</h1>
+				<p>pophariini.com</p>
+				<p>spotify</p>
+				<p>joylandfest.com/lineup/reality-club/</p>
+				<p>medcom.id</p>
+				<p>music.fandom.com/wiki/Slank</p>
+				<p>Resso</p>
+				<p>YouTube</p>
 			</div>
 		</div>
 	);

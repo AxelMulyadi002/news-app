@@ -32,7 +32,7 @@ const Card = ({ props }) => {
 								src={data.url}
 								alt="..."
 								width={300}
-								height={200}
+								height={300}
 								className="m-auto border"
 							/>
 							<h1 className="p-2 font-semibold w-[300px]">
