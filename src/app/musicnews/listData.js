@@ -16,11 +16,13 @@ const listData = [
 		textkedua:
 			'Pada lagu ini diceritakan juga bahwa anak broken home tersebut kesepian karena tumbuh besar tanpa adanya kasih saying dari sosok orang tua sehingga ada suatu kehampaan didalam diri anak tersebut sesuai dengan judul lagu itu yaitu Ruang Hampa.',
 		textketiga:
-			'Nah untuk para sobat SukaMusikers yang ingin mendengarkan langsung lagu ini mungkin sobat SukaMusikers bisa langsung saja membuka link dibawah ini: https://youtu.be/wHTlmUcEK08?si=yqZlJOHJv6kCN8tN',
+			'Nah untuk para sobat SukaMusikers yang ingin mendengarkan langsung lagu ini mungkin sobat SukaMusikers bisa langsung saja membuka link dibawah ini: ',
 		textkeempat:
 			'Untuk sobat SukaMusikers yang memiliki pengalaman relate kalian jangan berkecil hati ya, semoga lagu ini juga bisa menjadi simbol pengekspresian isi hati kalian ya sobat SukaMusikers enjoyy.',
 		source: 'Nicholas Samuel',
 		video: 'https://youtu.be/XIkrm3-izEk?si=VkFJl4t-dCpCuDot',
+		link: 'https://youtu.be/wHTlmUcEK08?si=yqZlJOHJv6kCN8tN',
+		alt: 'Ruang Hampa',
 	},
 	{
 		id: 23,
@@ -34,11 +36,13 @@ const listData = [
 		textkedua:
 			'Lagu ini secara garis besar menceritakan isi hati seseorang yang sedang berada di fase trauma dikarenakan Ketika ia menjalani suatu hubungan dan mengalami rasa nyaman, namun dari orang tersebut lah ia mengalami sumber kekecewaan, sehingga akhirnya seseorang tersebut menjadi tidak percaya lagi dengan cinta, dan tak berharap lagi dengan cinta tersebut.',
 		textketiga:
-			'Untuk kalian yang ingin mendengarkan single ini bisa langsung membuka link berikut ini https://youtu.be/WjhbNUCuwLE?si=INbSL27ODRv5haE9',
+			'Untuk kalian yang ingin mendengarkan single ini bisa langsung membuka link berikut ini ',
 		textkeempat:
 			'Nah SukaMusikers gimana menurut kalian ? Apakah lagu ini relate dengan keadaan hati kalian sekarang coba yuk curhat bareng mimin di kolom komentar instagram kita @sukamusikweb.id Jangan malu malu ya sobat SukaMusikers Happy Weekend !',
 		source: 'Nicholas Samuel',
 		video: 'https://youtu.be/XIkrm3-izEk?si=VkFJl4t-dCpCuDot',
+		link: 'https://youtu.be/WjhbNUCuwLE?si=INbSL27ODRv5haE9',
+		alt: 'Tak Berharap Lagi',
 	},
 ];
 
