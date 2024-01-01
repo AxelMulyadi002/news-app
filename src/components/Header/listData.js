@@ -4,6 +4,7 @@ import mahalini from '@/img/mahalini.webp';
 const listData = [
 	{
 		id: 5,
+		source: 'Axel Mulyadi',
 		url: putri,
 		image: putri,
 		title: 'Penampilan Kece Putri Riani Dalam Debat Capres Perdana',
@@ -12,15 +13,17 @@ const listData = [
 			'Putri Riani tampil dengan menggunakan baju elegan dan indah berwarna putih menjadikannya pusat perhatian di dalam gelapnya panggung. Putri Riani yang baru berusia 17 tahun mampu tampil dengan sangat percaya diri dan dengan bangga menyanyikan 3 lagu buatan dirinya sendiri. Putri Riani mengungkapkan bahwa dia merasa senang dan bangga bisa tampil di depan Calon Presiden dan Calon Wakil Presiden.',
 
 		textketiga:
-			'Penampilan Putri Riani dalam debat perdana Capres mendapat banyak pujian di kolom komentar instagram pribadi miliknya @arianinismaputri “Selalu bangga akan dirimu, Putri. Jaga kesehatan & jaga stamina krn sering live performances ya. Baju putih ini bagus sekali di Putri. Festive but still age appropriate. You have such a beautiful glow when wearing a light coloured apparel. Kuddos to your stylist” ungkap lainnya',
+			'Penampilan Putri Riani dalam debat perdana Capres mendapat banyak pujian di kolom komentar instagram pribadi miliknya @arianinismaputri “Selalu bangga akan dirimu". "Putri. Jaga kesehatan & jaga stamina krn sering live performances ya". "Baju putih ini bagus sekali di Putri". "Festive but still age appropriate". "You have such a beautiful glow when wearing a light coloured apparel. Kuddos to your stylist”',
 
 		textkeempat:
-			'“Putri disamping suara yg bavus, outfit nya jg keren. Kekinian banget...sukses terus putri…” ungkap lainnya, “Putri cantik banget kamu😍😍, tadi suaranya bagus banget👏🔥🔥” ungkap lainnya, Dan masih banyak lagi komentar yang memuji penampilan Putri Ariani.',
+			'“Putri disamping suara yg bavus, outfit nya jg keren. Kekinian banget...sukses terus putri…”. “Putri cantik banget kamu😍😍, tadi suaranya bagus banget👏🔥🔥”. Dan masih banyak lagi komentar yang memuji penampilan Putri Ariani.',
 		leftText: 'Di Debat Capres',
 		rightText: 'Penampilan Putri Riani',
+		video: 'https://youtu.be/tf4R58PqqpY',
 	},
 	{
 		id: 6,
+		source: 'Axel Mulyadi',
 		url: mahalini,
 		image: mahalini,
 		title: 'Sial Mahalini Meraih Penghargaan Song of The Year di IMA 2023',
@@ -31,6 +34,7 @@ const listData = [
 			'Jadi wajar saja lagu Sial milik Mahalini bahkan berhasil mengalahkan beberapa lagu hits lainnya, seperti Loneliness milik Putri Ariani, Satu-Satu milik IDGITAF, hingga Tak Segampang itu milik Anggi Marito.',
 		leftText: 'Mahalini',
 		rightText: 'Menang Lagi!!',
+		video: 'https://www.youtube.com/watch?v=x6jNX448FQU&t=2s',
 	},
 ];
 

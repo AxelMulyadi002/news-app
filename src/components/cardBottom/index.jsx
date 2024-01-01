@@ -31,11 +31,9 @@ const Card = ({ props }) => {
 							<Image
 								src={data.url}
 								alt="..."
-								width={300}
-								height={300}
-								className="m-auto border"
+								className="m-auto h-[200px] w-[300px]"
 							/>
-							<h1 className="p-2 font-semibold w-[300px]">
+							<h1 className="py-2 font-semibold w-[300px]">
 								{/* Lorem ipsum dolor sit amet consectetur adipisicing. */}
 								{data.headline}
 							</h1>

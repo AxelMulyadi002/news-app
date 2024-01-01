@@ -6,6 +6,7 @@ import konser3 from '@/img/konser3.webp';
 const listData = [
 	{
 		id: 19,
+		source: 'Theresia Andjani Theodora',
 		url: konser1,
 		image: konser1,
 		title: 'Konser Gratis “DISCOVER THE NEW”',
@@ -18,6 +19,7 @@ const listData = [
 	},
 	{
 		id: 20,
+		source: 'Theresia Andjani Theodora',
 		url: konser2,
 		image: konser2,
 		title: 'New Year Eve’s Party “ Back to High School “',
@@ -30,6 +32,7 @@ const listData = [
 	},
 	{
 		id: 21,
+		source: 'Theresia Andjani Theodora',
 		url: konser3,
 		image: konser3,
 		title: 'Transmedia 22 Power Up',

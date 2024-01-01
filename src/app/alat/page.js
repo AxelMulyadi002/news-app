@@ -72,7 +72,8 @@ const allGenres = () => {
 							kece kayak Agung Yudha Asmara.
 						</h1>
 					</div>
-					<h1>Sumber</h1>
+					<h1>Diliput Oleh: Joshia Wilson Tanudjaja</h1>
+					<h1>Sumber: </h1>
 					<p>
 						https://hot.detik.com/music/d-1881092/ini-dia-gitar-fender-signature-eross-candra
 						https://www.google.com/amp/s/m.tribunnews.com/amp/seleb/2023/10/12/ahmad-dhani-pilih-gunakan-keyboard-elektrik-piano-yang-bisa-hasilkan-suara-klasik

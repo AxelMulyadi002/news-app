@@ -14,7 +14,7 @@ const WhatsNew = () => {
 					height={100}
 					className="m-auto"
 				/>
-				<h1 className="text-5xl font-bold p-2">What&rsquo;s New</h1>
+				<h1 className="text-5xl font-bold p-4">What&rsquo;s New</h1>
 				<Card props={listData} />
 			</div>
 		</div>

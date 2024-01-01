@@ -19,6 +19,7 @@ const listData = [
 			'Nah untuk para sobat SukaMusikers yang ingin mendengarkan langsung lagu ini mungkin sobat SukaMusikers bisa langsung saja membuka link dibawah ini: https://youtu.be/wHTlmUcEK08?si=yqZlJOHJv6kCN8tN',
 		textkeempat:
 			'Untuk sobat SukaMusikers yang memiliki pengalaman relate kalian jangan berkecil hati ya, semoga lagu ini juga bisa menjadi simbol pengekspresian isi hati kalian ya sobat SukaMusikers enjoyy.',
+		source: 'Nicholas Samuel',
 	},
 	{
 		id: 23,
@@ -35,6 +36,7 @@ const listData = [
 			'Untuk kalian yang ingin mendengarkan single ini bisa langsung membuka link berikut ini https://youtu.be/WjhbNUCuwLE?si=INbSL27ODRv5haE9',
 		textkeempat:
 			'Nah SukaMusikers gimana menurut kalian ? Apakah lagu ini relate dengan keadaan hati kalian sekarang coba yuk curhat bareng mimin di kolom komentar instagram kita @sukamusikweb.id Jangan malu malu ya sobat SukaMusikers Happy Weekend !',
+		source: 'Nicholas Samuel',
 	},
 ];
 

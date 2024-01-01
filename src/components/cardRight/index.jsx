@@ -31,7 +31,7 @@ const CardRight = () => {
 								alt="..."
 								width={300}
 								height={200}
-								className="p-2"
+								className="p-2 h-[200px] w-[300px]"
 							/>
 							<h1 className="p-2 font-semibold w-[300px]">{data.headline}</h1>
 						</div>
