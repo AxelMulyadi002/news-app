@@ -20,6 +20,7 @@ const listData = [
 		textkeempat:
 			'Untuk sobat SukaMusikers yang memiliki pengalaman relate kalian jangan berkecil hati ya, semoga lagu ini juga bisa menjadi simbol pengekspresian isi hati kalian ya sobat SukaMusikers enjoyy.',
 		source: 'Nicholas Samuel',
+		video: 'https://youtu.be/XIkrm3-izEk?si=VkFJl4t-dCpCuDot',
 	},
 	{
 		id: 23,
@@ -37,6 +38,7 @@ const listData = [
 		textkeempat:
 			'Nah SukaMusikers gimana menurut kalian ? Apakah lagu ini relate dengan keadaan hati kalian sekarang coba yuk curhat bareng mimin di kolom komentar instagram kita @sukamusikweb.id Jangan malu malu ya sobat SukaMusikers Happy Weekend !',
 		source: 'Nicholas Samuel',
+		video: 'https://youtu.be/XIkrm3-izEk?si=VkFJl4t-dCpCuDot',
 	},
 ];
 
