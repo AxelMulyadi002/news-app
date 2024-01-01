@@ -77,7 +77,7 @@ const topcharts = () => {
 						</h1>
 					</div>
 				</div>
-				<p>Diliput oleh: Salmaa</p>
+				<p>Diliput oleh: Salmaa Nabila Nur Suprato</p>
 				<h1>Sumber:</h1>
 				<p>pophariini.com</p>
 				<p>spotify</p>
